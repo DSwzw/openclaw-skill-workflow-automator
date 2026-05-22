@@ -3,7 +3,7 @@ name: workflow-automator
 display_name: 工作流自动化
 version: "2.0.0"
 author: BytesAgain
-homepage: https://github.com/qifengle-ovo/openclaw-skill-workflow-automator
+homepage: https://github.com/DSwzw/openclaw-skill-workflow-automator
 license: MIT-0
 description: "Workflow Automator - command-line tool for everyday use"
 tags:
